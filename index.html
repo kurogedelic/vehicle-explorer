@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>乗り物のことば — Vehicle Word Explorer</title>
+  <meta name="description" content="ヨット、ふね、フニクラー。製品名の種を探すための、英語の乗り物・船のことば一覧。">
+  <meta name="theme-color" content="#efe6d4">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,560;0,9..144,650;1,9..144,560&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#list">一覧へスキップ</a>
+  <div class="wrap">
+    <header class="hero">
+      <div class="seal" aria-hidden="true">舟</div>
+      <div class="hero-text">
+        <p class="eyebrow">Vehicle Word Explorer</p>
+        <h1>乗り物のことば</h1>
+        <p class="lede">ヨット、ふね、フニクラー。英語の乗り物と船のことばを眺めて、製品名の種を拾うための単語帳です。</p>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <form id="search-form" role="search">
+        <label class="sr-only" for="q">単語・意味・由来を検索</label>
+        <input id="q" type="search" placeholder="単語、意味、由来、日本語" autocomplete="off" enterkeyhint="search">
+        <button id="clear" type="button" hidden>クリア</button>
+      </form>
+      <div id="chips" class="chips" role="group" aria-label="分類"></div>
+      <div class="toolbar-row">
+        <p id="count" class="count" aria-live="polite">読み込み中</p>
+        <button id="random" type="button">ひとつ引く</button>
+      </div>
+    </div>
+
+    <div id="draw"></div>
+    <div id="list"></div>
+    <p id="load-error" class="error" hidden>単語データを読み込めませんでした。このページは <code>data.json</code> と同じ場所から開いてください。</p>
+
+    <footer class="colophon">
+      <p>お気に入りはこのブラウザだけに保存されます。検索・画像・ブランドはそれぞれ Google 検索、「画像」検索、「<span lang="en">word brand</span>」検索へのリンクです。商標調査そのものではありません。語源は通説を短く書き、不確かなものは未詳と記しています。</p>
+      <p class="keys"><kbd>/</kbd> 検索に移動　<kbd>r</kbd> ひとつ引く</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+  <noscript><p class="wrap">JavaScript を有効にすると単語帳が開きます。</p></noscript>
+</body>
+</html>

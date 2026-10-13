@@ -1,0 +1,1911 @@
+[
+  {
+    "word": "Aeroplane",
+    "ipa": "/ˈɛrəˌpleɪn/",
+    "meaning": "A powered heavier-than-air craft with fixed wings. Airplane is the usual American spelling.",
+    "ja": "飛行機。固定翼を持つ、空気より重い動力機。イギリス綴りが aeroplane、アメリカ綴りが airplane。",
+    "category": "air",
+    "origin": "French aéroplane, from Greek aēr, air, and a word for a plane or a wanderer."
+  },
+  {
+    "word": "Airliner",
+    "ipa": "/ˈɛrˌlaɪnər/",
+    "meaning": "A large passenger airplane on a scheduled route.",
+    "ja": "旅客機。定期路線を飛ぶ大型の旅客飛行機。",
+    "category": "air",
+    "origin": "English air + liner."
+  },
+  {
+    "word": "Airship",
+    "ipa": "/ˈɛrˌʃɪp/",
+    "meaning": "A powered lighter-than-air craft that can be steered. Balloons drift; airships are driven.",
+    "ja": "飛行船。推進でき、針路を取れる、空気より軽い航空機。気球は流されるが、飛行船は進む。",
+    "category": "air",
+    "origin": "English air + ship."
+  },
+  {
+    "word": "Ambulance",
+    "ipa": "/ˈæmbjələns/",
+    "meaning": "A vehicle for carrying the sick and the injured.",
+    "ja": "救急車。病人や負傷者を運ぶ車。",
+    "category": "land",
+    "origin": "French ambulance, from hôpital ambulant, a walking hospital. Latin ambulare, to walk."
+  },
+  {
+    "word": "Amphibian",
+    "ipa": "/æmˈfɪbiən/",
+    "meaning": "An aircraft that can operate from both land and water.",
+    "ja": "水陸両用機。陸からも水上からも離着陸できる航空機。",
+    "category": "air",
+    "origin": "Greek amphibios, living a double life."
+  },
+  {
+    "word": "Araba",
+    "ipa": "/əˈrɑbə/",
+    "meaning": "A wagon or carriage of the Ottoman world and the Middle East.",
+    "ja": "アラバ。オスマン帝国の地域や中東の荷馬車、乗用馬車。",
+    "category": "land",
+    "origin": "Turkish araba, carriage or cart. Also used in Arabic."
+  },
+  {
+    "word": "Argosy",
+    "ipa": "/ˈɑrɡəsi/",
+    "meaning": "A large merchant ship, or a richly loaded fleet of them.",
+    "ja": "アーゴシー。大型の商船。また、荷を豊かに積んだ船隊。",
+    "category": "boat",
+    "origin": "Italian ragusea, a ship of Ragusa, the city now called Dubrovnik."
+  },
+  {
+    "word": "Autogyro",
+    "ipa": "/ˌɔtoʊˈdʒaɪroʊ/",
+    "meaning": "A rotorcraft whose free-spinning rotor provides lift while a propeller provides thrust. It is not a helicopter.",
+    "ja": "オートジャイロ。動力のないローターが揚力を生み、プロペラが推力を出す回転翼機。ヘリコプターとは違う。",
+    "category": "air",
+    "origin": "Spanish autogiro, the name Juan de la Cierva gave his machine in the 1920s."
+  },
+  {
+    "word": "Balloon",
+    "ipa": "/bəˈlun/",
+    "meaning": "A bag of hot air or lifting gas that floats. It is unpowered unless it is built as an airship.",
+    "ja": "気球。熱した空気や軽いガスを袋に入れた、浮く乗り物。動力がなければ飛行船ではない。",
+    "category": "air",
+    "origin": "French ballon, from Italian ballone, a large ball."
+  },
+  {
+    "word": "Balsa",
+    "ipa": "/ˈbɔlsə/",
+    "meaning": "A raft, especially a log raft of the Pacific coast of South America.",
+    "ja": "バルサ。筏。とくに南米太平洋岸で、軽い丸太を組んだもの。",
+    "category": "boat",
+    "origin": "Spanish balsa, raft. The name of balsa wood comes from the same word, because the wood was used for rafts."
+  },
+  {
+    "word": "Barge",
+    "ipa": "/bɑrdʒ/",
+    "meaning": "A flat-bottomed cargo boat for rivers, canals, and harbors.",
+    "ja": "バージ。川、運河、港で貨物を運ぶ平底の船。はしけ。",
+    "category": "boat",
+    "origin": "Old French barge."
+  },
+  {
+    "word": "Barouche",
+    "ipa": "/bəˈruʃ/",
+    "meaning": "An elegant four-wheeled open carriage, with a folding hood over the rear seat.",
+    "ja": "バルーシュ。優雅な四輪の開放馬車。後ろの座席の上に、折りたためる幌がある。",
+    "category": "land",
+    "origin": "German Barutsche, from Italian baroccio, ultimately Latin birotus, two-wheeled. The carriage itself has four wheels."
+  },
+  {
+    "word": "Barque",
+    "ipa": "/bɑrk/",
+    "meaning": "A sailing ship of three or more masts, square-rigged on all but the aftermost mast. Also spelled bark.",
+    "ja": "バーク船。三本以上のマストを持ち、最後のマストだけが前後帆の帆船。bark とも綴る。",
+    "category": "boat",
+    "origin": "French barque, from Latin barca, a boat."
+  },
+  {
+    "word": "Berline",
+    "ipa": "/bərˈlin/",
+    "meaning": "A closed four-wheeled traveling carriage with two seats inside, facing each other.",
+    "ja": "ベルリーヌ。車内で向かい合う二つの座席を持つ、閉じた四輪の旅行馬車。",
+    "category": "land",
+    "origin": "French, from Berlin, where the type was developed in the seventeenth century."
+  },
+  {
+    "word": "Bicycle",
+    "ipa": "/ˈbaɪsɪkəl/",
+    "meaning": "A two-wheeled vehicle pedaled by its rider.",
+    "ja": "自転車。人がペダルを漕いで進む二輪車。",
+    "category": "land",
+    "origin": "English bi- and Greek kyklos, circle or wheel. French bicyclette is the later small-wheeled form."
+  },
+  {
+    "word": "Biga",
+    "ipa": "/ˈbaɪɡə/",
+    "meaning": "A chariot drawn by two horses.",
+    "ja": "ビガ。二頭立てのチャリオット。",
+    "category": "land",
+    "origin": "Latin biga."
+  },
+  {
+    "word": "Biplane",
+    "ipa": "/ˈbaɪˌpleɪn/",
+    "meaning": "An airplane with two wings, one set above the other.",
+    "ja": "複葉機。翼を上下二枚に重ねた飛行機。",
+    "category": "air",
+    "origin": "English bi- + plane."
+  },
+  {
+    "word": "Blimp",
+    "ipa": "/blɪmp/",
+    "meaning": "A non-rigid airship: a gas bag with no internal frame, with a gondola underneath.",
+    "ja": "軟式飛行船（ブリンプ）。内部に骨組を持たないガス袋の下に、ゴンドラを吊った飛行船。",
+    "category": "air",
+    "origin": "Uncertain. British, from 1916. The story that it means type B, limp is a popular explanation that has not been verified."
+  },
+  {
+    "word": "Bobsled",
+    "ipa": "/ˈbɑbˌslɛd/",
+    "meaning": "A racing sled with a steering mechanism and a crew of two or four.",
+    "ja": "ボブスレー。舵を持ち、二人または四人で乗る競技用そり。",
+    "category": "land",
+    "origin": "English bob + sled. Bob refers to the short, nodding motion of the early sleds."
+  },
+  {
+    "word": "Boneshaker",
+    "ipa": "/ˈboʊnˌʃeɪkər/",
+    "meaning": "A nickname for the early pedal velocipede, with wooden wheels and iron tires.",
+    "ja": "ボーンシェイカー。木の車輪に鉄のタイヤを履いた、初期のペダル式ベロシペードのあだ名。",
+    "category": "land",
+    "origin": "English bone + shaker."
+  },
+  {
+    "word": "Booster",
+    "ipa": "/ˈbustər/",
+    "meaning": "The rocket, or the stage, that supplies the push at launch.",
+    "ja": "ブースター。打ち上げの推力を出すロケット、またはその段。",
+    "category": "space",
+    "origin": "English boost + -er."
+  },
+  {
+    "word": "Brigantine",
+    "ipa": "/ˈbrɪɡənˌtin/",
+    "meaning": "A two-masted sailing ship, square-rigged on the foremast and fore-and-aft rigged on the main.",
+    "ja": "ブリガンティン。二本マストの帆船。前マストは横帆、主マストは前後帆。",
+    "category": "boat",
+    "origin": "Italian brigantino. English brig is the shortened form, for a fully square-rigged two-master."
+  },
+  {
+    "word": "Brougham",
+    "ipa": "/ˈbruəm/",
+    "meaning": "A light closed carriage with the driver seated outside, in front.",
+    "ja": "ブルーム。御者が前の外に座る、軽い箱型の馬車。",
+    "category": "land",
+    "origin": "Henry Brougham, later Lord Chancellor, for whom the carriage was built around 1838."
+  },
+  {
+    "word": "Buckboard",
+    "ipa": "/ˈbʌkˌbɔrd/",
+    "meaning": "A simple American wagon whose floor is a springy plank between the axles, with no proper body.",
+    "ja": "バックボード。車軸のあいだに弾む一枚板を渡した、車体のない簡素なアメリカの荷車。",
+    "category": "land",
+    "origin": "American English buck, to bounce, and board."
+  },
+  {
+    "word": "Buggy",
+    "ipa": "/ˈbʌɡi/",
+    "meaning": "A light American carriage, usually with four wheels and one horse.",
+    "ja": "バギー。軽いアメリカの馬車。多くは四輪で、馬は一頭。",
+    "category": "land",
+    "origin": "American English. Origin uncertain."
+  },
+  {
+    "word": "Bus",
+    "ipa": "/bʌs/",
+    "meaning": "A large road vehicle that carries passengers along a route.",
+    "ja": "バス。決まった道で客を運ぶ大型の自動車。",
+    "category": "land",
+    "origin": "Shortened from omnibus."
+  },
+  {
+    "word": "Cable car",
+    "ipa": "/ˈkeɪbəl kɑr/",
+    "meaning": "A streetcar that grips a cable moving in a slot under the street, as in San Francisco. Not the same as a funicular.",
+    "ja": "ケーブルカー。路面下を動く鋼索を掴んで走る街の電車。サンフランシスコ型。二両が釣り合うフニクラーとは別。",
+    "category": "rail",
+    "origin": "English cable + car."
+  },
+  {
+    "word": "Caboose",
+    "ipa": "/kəˈbus/",
+    "meaning": "The crew car at the end of a North American freight train.",
+    "ja": "カブース。北米の貨物列車の最後尾につく、乗務員の車。車掌車。",
+    "category": "rail",
+    "origin": "Dutch kambuis, a ship's galley or deck cabin. The railroad sense is American, from the nineteenth century."
+  },
+  {
+    "word": "Cabriolet",
+    "ipa": "/ˌkæbrioʊˈleɪ/",
+    "meaning": "A light two-wheeled hooded carriage. The name later passed to a car with a folding top.",
+    "ja": "カブリオレ。幌付きの軽い二輪馬車。のちに、幌を畳める自動車の名になった。",
+    "category": "land",
+    "origin": "French cabriolet, from cabriole, a caper or leap."
+  },
+  {
+    "word": "Caique",
+    "ipa": "/kaɪˈik/",
+    "meaning": "A light boat of the Bosphorus and the Aegean.",
+    "ja": "カイーク。ボスポラス海峡やエーゲ海の軽い舟。",
+    "category": "boat",
+    "origin": "Turkish kayık, through French caïque."
+  },
+  {
+    "word": "Caleche",
+    "ipa": "/kəˈlɛʃ/",
+    "meaning": "A light carriage with a folding hood.",
+    "ja": "カレッシュ。折りたためる幌を持つ軽い馬車。",
+    "category": "land",
+    "origin": "French calèche, probably through German from Czech kolesa, wheels."
+  },
+  {
+    "word": "Calesa",
+    "ipa": "/kəˈleɪsə/",
+    "meaning": "A two-wheeled horse carriage of the Philippines.",
+    "ja": "カレサ。フィリピンの二輪馬車。",
+    "category": "land",
+    "origin": "Spanish calesa, kin to French calèche."
+  },
+  {
+    "word": "Canard",
+    "ipa": "/kəˈnɑrd/",
+    "meaning": "An airplane with a small foreplane ahead of the main wing, or that foreplane itself.",
+    "ja": "カナード。主翼の前に小さな先尾翼を持つ飛行機。またその先尾翼。",
+    "category": "air",
+    "origin": "French canard, duck. An early tail-first airplane was nicknamed for the bird."
+  },
+  {
+    "word": "Canoe",
+    "ipa": "/kəˈnu/",
+    "meaning": "A narrow, open boat, pointed at the ends and driven with a paddle.",
+    "ja": "カヌー。両端が細く、パドルで進む、甲板のない細い舟。",
+    "category": "boat",
+    "origin": "Spanish canoa, from Taíno, an Arawakan language of the Caribbean."
+  },
+  {
+    "word": "Capsule",
+    "ipa": "/ˈkæpsəl/",
+    "meaning": "A sealed spacecraft, usually blunt-bodied, that reenters the atmosphere without wings.",
+    "ja": "カプセル。密閉された宇宙船。多くは鈍い形で、翼を使わず大気圏に戻る。",
+    "category": "space",
+    "origin": "Latin capsula, a small box."
+  },
+  {
+    "word": "Caravan",
+    "ipa": "/ˈkærəˌvæn/",
+    "meaning": "A covered vehicle fitted out as a traveling home, or a company of travelers crossing together.",
+    "ja": "キャラバン。旅の住まいになる屋根付きの車。また、一緒に旅する隊列。",
+    "category": "land",
+    "origin": "Persian kārvān, through French caravane."
+  },
+  {
+    "word": "Caravel",
+    "ipa": "/ˈkærəˌvɛl/",
+    "meaning": "A nimble sailing ship of the Portuguese and Spanish voyages, often lateen-rigged.",
+    "ja": "キャラベル船。ポルトガルとスペインの大航海で使われた、小回りが利く帆船。三角帆が多い。",
+    "category": "boat",
+    "origin": "Portuguese caravela."
+  },
+  {
+    "word": "Carrack",
+    "ipa": "/ˈkærək/",
+    "meaning": "A large ocean-going sailing ship of the fifteenth and sixteenth centuries, with high castles at bow and stern.",
+    "ja": "キャラック船。15–16世紀の大型外洋帆船。船首と船尾に高い楼を持つ。",
+    "category": "boat",
+    "origin": "Portuguese carraca. A further Arabic or Latin source is possible."
+  },
+  {
+    "word": "Carriage",
+    "ipa": "/ˈkærɪdʒ/",
+    "meaning": "A wheeled passenger vehicle, especially one drawn by horses.",
+    "ja": "馬車。車輪の付いた客用の乗り物。とくに馬が引くもの。",
+    "category": "land",
+    "origin": "Old Northern French cariage, from carier, to carry."
+  },
+  {
+    "word": "Catamaran",
+    "ipa": "/ˌkætəməˈræn/",
+    "meaning": "A boat with two hulls joined by a deck. Earlier, a raft of lashed logs.",
+    "ja": "カタマラン。二つの船体を甲板でつないだ船。もとは丸太を縛った筏。",
+    "category": "boat",
+    "origin": "Tamil kaṭṭumaram, tied wood."
+  },
+  {
+    "word": "Catboat",
+    "ipa": "/ˈkætˌboʊt/",
+    "meaning": "A sailboat with its single mast stepped far forward and only one sail.",
+    "ja": "キャットボート。マストを大きく前に立て、帆を一枚だけ張る小型帆船。",
+    "category": "boat",
+    "origin": "American English. The origin of cat in this name is uncertain."
+  },
+  {
+    "word": "Chairlift",
+    "ipa": "/ˈtʃɛrˌlɪft/",
+    "meaning": "A line of open chairs hung from a moving cable, used to carry people up a slope.",
+    "ja": "チェアリフト。動く鋼索に開いた椅子を吊り、斜面の人を運ぶ装置。",
+    "category": "rail",
+    "origin": "English chair + lift."
+  },
+  {
+    "word": "Chaise",
+    "ipa": "/ʃeɪz/",
+    "meaning": "A light open carriage, often two-wheeled, for one or two people.",
+    "ja": "シェーズ。一人または二人用の、軽い開放馬車。二輪が多い。",
+    "category": "land",
+    "origin": "French chaise, chair."
+  },
+  {
+    "word": "Charabanc",
+    "ipa": "/ˈʃærəˌbæŋ/",
+    "meaning": "An open wagon with rows of bench seats facing forward, used for excursions.",
+    "ja": "シャラバン。前を向いたベンチ席を並べた、開放の遊覧馬車。",
+    "category": "land",
+    "origin": "French char-à-bancs, a carriage with benches."
+  },
+  {
+    "word": "Chariot",
+    "ipa": "/ˈtʃæriət/",
+    "meaning": "An ancient two-wheeled vehicle drawn by horses, used in war, racing, and procession.",
+    "ja": "チャリオット。古代の二輪馬車。戦、競走、行列に使った。現代の戦車（タンク）とは別。",
+    "category": "land",
+    "origin": "French, from Latin carrus, from Gaulish carros."
+  },
+  {
+    "word": "Clipper",
+    "ipa": "/ˈklɪpər/",
+    "meaning": "A very fast nineteenth-century sailing ship, with a long bow and a sharp entry.",
+    "ja": "クリッパー。19世紀の快速帆船。船首が長く、水を切る形が鋭い。",
+    "category": "boat",
+    "origin": "English clip, to move quickly."
+  },
+  {
+    "word": "Coach",
+    "ipa": "/koʊtʃ/",
+    "meaning": "A large closed four-wheeled carriage. Later, a motor bus or a railway car.",
+    "ja": "コーチ。大型の箱型四輪馬車。のちにバスや鉄道客車も指す。",
+    "category": "land",
+    "origin": "Hungarian kocsi, the carriage of Kocs, the Hungarian town where the type was built."
+  },
+  {
+    "word": "Cog",
+    "ipa": "/kɑɡ/",
+    "meaning": "The high-sided trading ship of the medieval North Sea and Baltic.",
+    "ja": "コグ船。中世の北海とバルト海の、舷の高い商船。",
+    "category": "boat",
+    "origin": "Middle Low German kogge."
+  },
+  {
+    "word": "Cog railway",
+    "ipa": "/kɑɡ ˈreɪlweɪ/",
+    "meaning": "A railway that climbs by a cog meshing with a toothed rack in the track. Also called a rack railway.",
+    "ja": "ラック式鉄道。線路の歯レールに歯車を噛ませて急坂を上る鉄道。アプト式など。",
+    "category": "rail",
+    "origin": "English cog + railway."
+  },
+  {
+    "word": "Conestoga",
+    "ipa": "/ˌkɑnəˈstoʊɡə/",
+    "meaning": "A heavy covered freight wagon of Pennsylvania, with a boat-shaped bed to keep the load from shifting on hills.",
+    "ja": "コネストーガ。ペンシルベニアの重い幌付き貨物馬車。坂で荷がずれないよう、荷台が舟の底のように反っている。",
+    "category": "land",
+    "origin": "The Conestoga Valley of Pennsylvania, a Susquehannock place name."
+  },
+  {
+    "word": "Coracle",
+    "ipa": "/ˈkɔrəkl/",
+    "meaning": "A small, nearly round boat of hide or canvas over a lath frame, paddled on Welsh and Irish rivers.",
+    "ja": "コラクル。枝を組んだ枠に皮や帆布を張った、ほぼ円い小舟。ウェールズやアイルランドの川で櫂を使う。",
+    "category": "boat",
+    "origin": "Welsh corwgl, kin to Irish currach."
+  },
+  {
+    "word": "Corvette",
+    "ipa": "/kɔrˈvɛt/",
+    "meaning": "A small, handy warship: below a frigate in the age of sail, and a light escort today.",
+    "ja": "コルベット。小型で小回りの利く軍艦。帆船時代はフリゲートの下、今は軽護衛艦。",
+    "category": "boat",
+    "origin": "French corvette."
+  },
+  {
+    "word": "Coupe",
+    "ipa": "/kuˈpeɪ/",
+    "meaning": "A closed two-door car. Earlier, a shortened carriage, cut down from a larger coach.",
+    "ja": "クーペ。二ドアの閉じた自動車。もとは、大きいコーチを短く切った馬車。",
+    "category": "land",
+    "origin": "French coupé, cut, from couper, to cut."
+  },
+  {
+    "word": "CubeSat",
+    "ipa": "/ˈkjubˌsæt/",
+    "meaning": "A small satellite built in units of a 10-centimeter cube.",
+    "ja": "キューブサット。一辺10センチの立方体を単位にして作る超小型衛星。",
+    "category": "space",
+    "origin": "English cube + satellite. The standard was set in 1999 by Jordi Puig-Suari at California Polytechnic and Bob Twiggs at Stanford."
+  },
+  {
+    "word": "Currach",
+    "ipa": "/ˈkʌrəx/",
+    "meaning": "An Irish boat of hide or canvas over a wooden frame, more seagoing than a coracle.",
+    "ja": "カラハ。木枠に皮や帆布を張ったアイルランドの舟。コラクルより海に出る。",
+    "category": "boat",
+    "origin": "Irish curach."
+  },
+  {
+    "word": "Curricle",
+    "ipa": "/ˈkʌrɪkəl/",
+    "meaning": "A light two-wheeled carriage drawn by a pair of horses abreast.",
+    "ja": "カリクル。二頭の馬を横に並べて引かせる、軽い二輪馬車。",
+    "category": "land",
+    "origin": "Latin curriculum, a running course, from currere, to run."
+  },
+  {
+    "word": "Cutter",
+    "ipa": "/ˈkʌtər/",
+    "meaning": "A single-masted fore-and-aft sailboat with two or more headsails. Also a ship's boat.",
+    "ja": "カッター。マスト一本の前後帆船で、船首の帆を二枚以上持つ。艦載艇の名でもある。",
+    "category": "boat",
+    "origin": "English, from cut."
+  },
+  {
+    "word": "Cyclogyro",
+    "ipa": "/ˌsaɪkləˈdʒaɪroʊ/",
+    "meaning": "An experimental rotorcraft whose wings spin around a horizontal axis, in the manner of a paddle wheel.",
+    "ja": "サイクロジャイロ。翼が水平な軸のまわりを水車のように回る、実験的な回転翼機。",
+    "category": "air",
+    "origin": "English cyclo- + gyro. A tested idea, not a common aircraft."
+  },
+  {
+    "word": "Dahabiya",
+    "ipa": "/ˌdɑhəˈbiə/",
+    "meaning": "A Nile passenger boat, now often a houseboat with sails.",
+    "ja": "ダハビーヤ。ナイル川の客船。今は帆のあるハウスボートであることが多い。",
+    "category": "boat",
+    "origin": "Arabic dhahabīya, the golden one."
+  },
+  {
+    "word": "Dhow",
+    "ipa": "/daʊ/",
+    "meaning": "An English umbrella name for lateen-sailed ships of the Arabian Sea and Indian Ocean.",
+    "ja": "ダウ船。アラビア海やインド洋の三角帆船を、英語でまとめて呼ぶ名。",
+    "category": "boat",
+    "origin": "Probably Arabic dāwa, related to Marathi dāw. Sailors of the region use more specific names."
+  },
+  {
+    "word": "Dinghy",
+    "ipa": "/ˈdɪŋɡi/",
+    "meaning": "A small boat, often one that tends a larger vessel.",
+    "ja": "ディンギー。小舟。大きい船に付く船外艇であることが多い。",
+    "category": "boat",
+    "origin": "Bengali ḍiṅgi or Hindi ḍiṅgī."
+  },
+  {
+    "word": "Dirigible",
+    "ipa": "/ˈdɪrədʒəbəl/",
+    "meaning": "A steerable airship. The word stresses that it can be directed, unlike a free balloon.",
+    "ja": "ディリジブル。操縦できる飛行船。自由気球と違い、針路を向けられることを強調した名。",
+    "category": "air",
+    "origin": "Latin dirigere, to direct or steer."
+  },
+  {
+    "word": "Dogcart",
+    "ipa": "/ˈdɔɡˌkɑrt/",
+    "meaning": "A light cart with a box under the seat, originally to carry hunting dogs. The passengers sat back to back.",
+    "ja": "ドッグカート。座席の下に箱を持つ軽い荷馬車。もとは猟犬を入れた。客は背中合わせに座る。",
+    "category": "land",
+    "origin": "English dog + cart."
+  },
+  {
+    "word": "Dogsled",
+    "ipa": "/ˈdɔɡˌslɛd/",
+    "meaning": "A sled pulled by a team of dogs.",
+    "ja": "犬ぞり。犬のチームが牽くそり。",
+    "category": "land",
+    "origin": "English dog + sled."
+  },
+  {
+    "word": "Draisienne",
+    "ipa": "/drɛˈzjɛn/",
+    "meaning": "The 1817 two-wheeler you push with your feet, the ancestor of the bicycle. Also called a hobby horse or laufmaschine.",
+    "ja": "ドライジーネ（自転車）。1817年の、足で地面を蹴って進む二輪車。自転車の祖先。ホビーホース、ラウフマシーンとも。",
+    "category": "land",
+    "origin": "French, from Baron Karl von Drais, who demonstrated it in Mannheim in 1817. The rail draisine shares the name."
+  },
+  {
+    "word": "Draisine",
+    "ipa": "/dreɪˈzin/",
+    "meaning": "A small rail vehicle for inspecting the track, pedaled or motored. Named for the same Karl Drais as the early bicycle.",
+    "ja": "ドライジーネ。線路の点検に使う小型車。ペダル式や動力式がある。初期の自転車と同じカール・ドライスに由来する。",
+    "category": "rail",
+    "origin": "German Draisine, from Baron Karl von Drais."
+  },
+  {
+    "word": "Dray",
+    "ipa": "/dreɪ/",
+    "meaning": "A low, strong cart for heavy loads, without sides.",
+    "ja": "ドレイ。重い荷のための、側面のない低い頑丈な荷車。",
+    "category": "land",
+    "origin": "Old English dræge, something dragged, from dragan, to draw."
+  },
+  {
+    "word": "Dreadnought",
+    "ipa": "/ˈdrɛdˌnɔt/",
+    "meaning": "A battleship whose big guns are of one large caliber, the type set by HMS Dreadnought in 1906.",
+    "ja": "ドレッドノート。主砲を大口径に揃えた戦艦。1906年のイギリス艦ドレッドノートが型を開いた。",
+    "category": "boat",
+    "origin": "English dread + nought, fearing nothing. The common noun comes from the ship's name."
+  },
+  {
+    "word": "Drone",
+    "ipa": "/droʊn/",
+    "meaning": "A pilotless aircraft, guided remotely or by its own program.",
+    "ja": "ドローン。人が乗らず、遠隔操作やプログラムで飛ぶ航空機。無人機。",
+    "category": "air",
+    "origin": "Old English drān, a male honeybee. Used of pilotless aircraft from the twentieth century."
+  },
+  {
+    "word": "Droshky",
+    "ipa": "/ˈdrɑʃki/",
+    "meaning": "A low, open four-wheeled Russian carriage.",
+    "ja": "ドロシュキー。背の低い、開いたロシアの四輪馬車。",
+    "category": "land",
+    "origin": "Russian drozhki, diminutive of drogi, a wagon."
+  },
+  {
+    "word": "Ekka",
+    "ipa": "/ˈɛkə/",
+    "meaning": "A small one-horse carriage of India.",
+    "ja": "エッカ。インドの、一頭立ての小型馬車。",
+    "category": "land",
+    "origin": "Hindi ekkā, from ek, one."
+  },
+  {
+    "word": "Felucca",
+    "ipa": "/fəˈlʌkə/",
+    "meaning": "A narrow lateen-sailed boat of the Nile and the Mediterranean.",
+    "ja": "フェラッカ。ナイル川や地中海で使う、三角帆の細長い船。",
+    "category": "boat",
+    "origin": "Italian feluca, from Arabic falūka."
+  },
+  {
+    "word": "Ferry",
+    "ipa": "/ˈfɛri/",
+    "meaning": "A boat that carries people or vehicles across a river, a lake, or a short sea crossing.",
+    "ja": "フェリー。川、湖、短い海路を、人や車を載せて往復する船。",
+    "category": "boat",
+    "origin": "Old Norse ferja, related to Old English ferian, to carry."
+  },
+  {
+    "word": "Floatplane",
+    "ipa": "/ˈfloʊtˌpleɪn/",
+    "meaning": "A seaplane that rides on pontoons. The fuselage itself stays out of the water.",
+    "ja": "フロート水上機。フロート（ポンツーン）で水に浮く水上機。胴体そのものは水に浸からない。",
+    "category": "air",
+    "origin": "English float + plane."
+  },
+  {
+    "word": "Fluyt",
+    "ipa": "/flaɪt/",
+    "meaning": "A seventeenth-century Dutch cargo ship, tubby in the hull and narrow on deck, sailed by a small crew.",
+    "ja": "フリュート船。17世紀オランダの荷船。胴は太く甲板は狭く、少人数で運べた。",
+    "category": "boat",
+    "origin": "Dutch fluit, flute."
+  },
+  {
+    "word": "Flying boat",
+    "ipa": "/ˈflaɪɪŋ boʊt/",
+    "meaning": "A seaplane whose fuselage is the hull, so the body itself floats.",
+    "ja": "飛行艇。胴体そのものが船の船体になって水に浮く水上機。",
+    "category": "air",
+    "origin": "English flying + boat."
+  },
+  {
+    "word": "Flying wing",
+    "ipa": "/ˈflaɪɪŋ wɪŋ/",
+    "meaning": "An airplane that is almost entirely wing, with no separate fuselage.",
+    "ja": "全翼機。胴体を持たず、ほとんど翼だけでできた飛行機。",
+    "category": "air",
+    "origin": "English flying + wing."
+  },
+  {
+    "word": "Frigate",
+    "ipa": "/ˈfrɪɡɪt/",
+    "meaning": "A warship: in the age of sail, smaller than a ship of the line; today, a multi-role escort.",
+    "ja": "フリゲート。帆船時代は戦列艦より小さい軍艦。今は多用途の護衛艦。",
+    "category": "boat",
+    "origin": "Italian fregata, through French."
+  },
+  {
+    "word": "Fune",
+    "ipa": "/ɸɯne/",
+    "meaning": "The Japanese word for a boat or a ship. 舟 often suggests the smaller craft, 船 the larger, and both are read fune.",
+    "ja": "舟・船（ふね）。日本語で舟と船。舟は小さめ、船は大きめを指すことが多いが、読みは同じ。",
+    "category": "boat",
+    "origin": "Japanese 舟 and 船."
+  },
+  {
+    "word": "Funicular",
+    "ipa": "/fjuˈnɪkjələr/",
+    "meaning": "A steep railway of two cars linked by a cable, so that one rises as the other descends.",
+    "ja": "フニクラー。鋼索で結んだ二両が、一方が上がれば他方が下がる急坂の鉄道。鋼索鉄道。",
+    "category": "rail",
+    "origin": "Latin funiculus, a small rope, from funis, rope."
+  },
+  {
+    "word": "Galleass",
+    "ipa": "/ˈɡæliæs/",
+    "meaning": "A sixteenth-century Mediterranean warship larger than a galley, using both sails and oars.",
+    "ja": "ガレアス。16世紀地中海の軍船。ガレーより大きく、帆と櫂の両方で進む。",
+    "category": "boat",
+    "origin": "Italian galeazza, a large galley, through French."
+  },
+  {
+    "word": "Galleon",
+    "ipa": "/ˈɡæliən/",
+    "meaning": "A large, high-sided sailing ship of the sixteenth to eighteenth centuries, used as a warship and a treasure ship.",
+    "ja": "ガレオン船。16–18世紀の、舷の高い大型帆船。軍船にも、財宝を運ぶ船にもなった。",
+    "category": "boat",
+    "origin": "Spanish galeón, related to galley."
+  },
+  {
+    "word": "Galley",
+    "ipa": "/ˈɡæli/",
+    "meaning": "A warship driven mainly by oars, used from the ancient Mediterranean into the age of sail.",
+    "ja": "ガレー船。主に櫂で進む軍船。古代地中海から帆船の時代まで使われた。",
+    "category": "boat",
+    "origin": "Medieval Latin galea, from Byzantine Greek."
+  },
+  {
+    "word": "Gharry",
+    "ipa": "/ˈɡæri/",
+    "meaning": "In Anglo-Indian English, a carriage for hire.",
+    "ja": "ガリー。英印語で、貸し馬車。",
+    "category": "land",
+    "origin": "Hindi gāṛī, cart or carriage."
+  },
+  {
+    "word": "Gig",
+    "ipa": "/ɡɪɡ/",
+    "meaning": "A light two-wheeled carriage drawn by one horse.",
+    "ja": "ギグ。一頭の馬が引く、軽い二輪馬車。",
+    "category": "land",
+    "origin": "Origin uncertain."
+  },
+  {
+    "word": "Glider",
+    "ipa": "/ˈɡlaɪdər/",
+    "meaning": "An aircraft without an engine, kept aloft by rising air and by its own forward glide.",
+    "ja": "グライダー。エンジンを持たず、上昇気流と滑空で飛ぶ航空機。",
+    "category": "air",
+    "origin": "English glide + -er."
+  },
+  {
+    "word": "Gondola",
+    "ipa": "/ˈɡɑndələ/",
+    "meaning": "The long, flat-bottomed boat of the Venice canals, rowed with a single oar.",
+    "ja": "ゴンドラ。ヴェネツィアの運河で、一本の櫂で漕ぐ細長い平底舟。",
+    "category": "boat",
+    "origin": "Venetian Italian. The deeper origin is uncertain."
+  },
+  {
+    "word": "Gyrocopter",
+    "ipa": "/ˈdʒaɪroʊˌkɑptər/",
+    "meaning": "Another name for an autogyro: a rotorcraft whose rotor is unpowered in flight and whose propeller pulls it forward.",
+    "ja": "ジャイロコプター。オートジャイロの別名。飛行中のローターは動力で回さず、プロペラで前へ進む。",
+    "category": "air",
+    "origin": "English gyro- + copter.",
+    "note": "Gyrocopter has also been used as a trademark. Check before using it as a product name."
+  },
+  {
+    "word": "Gyrodyne",
+    "ipa": "/ˈdʒaɪrəˌdaɪn/",
+    "meaning": "A rotorcraft with a powered rotor for lift and a separate propeller for forward thrust.",
+    "ja": "ジャイロダイン。揚力用の動力ローターと、前進用の別のプロペラを両方持つ回転翼機。",
+    "category": "air",
+    "origin": "English gyro- + -dyne, from Greek dynamis, power."
+  },
+  {
+    "word": "Habitat",
+    "ipa": "/ˈhæbɪˌtæt/",
+    "meaning": "A pressurized module meant to be lived in, in orbit or on another world.",
+    "ja": "居住モジュール。軌道上や他の天体で、人が暮らすために与圧した区画。",
+    "category": "space",
+    "origin": "Latin habitare, to dwell."
+  },
+  {
+    "word": "Hackney",
+    "ipa": "/ˈhækni/",
+    "meaning": "A horse kept for hire, and then a carriage for hire.",
+    "ja": "ハックニー。貸し馬。転じて、貸馬車。",
+    "category": "land",
+    "origin": "Hackney, once a village northeast of London, where such horses were raised."
+  },
+  {
+    "word": "Handcar",
+    "ipa": "/ˈhændˌkɑr/",
+    "meaning": "A small railroad car pumped along by hand, used by track crews.",
+    "ja": "ハンドカー。手でポンプのように押して進む小型の軌道車。保線作業に使った。",
+    "category": "rail",
+    "origin": "English hand + car."
+  },
+  {
+    "word": "Hang glider",
+    "ipa": "/ˈhæŋ ˌɡlaɪdər/",
+    "meaning": "A craft the pilot hangs beneath and steers by shifting weight. The wing is a frame, unlike a paraglider's fabric canopy.",
+    "ja": "ハンググライダー。操縦者が翼の下にぶら下がり、体重移動で操る。骨組の翼で、布のキャノピーであるパラグライダーとは違う。",
+    "category": "air",
+    "origin": "English hang + glider."
+  },
+  {
+    "word": "Hansom",
+    "ipa": "/ˈhænsəm/",
+    "meaning": "A two-wheeled covered cab, with the driver seated high behind the passenger.",
+    "ja": "ハンソム。二輪の屋根付き辻馬車。御者は客席の後ろ、高い位置に座る。",
+    "category": "land",
+    "origin": "Joseph Hansom, who patented the design in 1834."
+  },
+  {
+    "word": "Hearse",
+    "ipa": "/hɜrs/",
+    "meaning": "A vehicle that carries a coffin.",
+    "ja": "霊柩車。棺を運ぶ車。",
+    "category": "land",
+    "origin": "French herse, a harrow. A frame of candles over a coffin looked like a harrow; the vehicle took the name."
+  },
+  {
+    "word": "Helicopter",
+    "ipa": "/ˈhɛlɪˌkɑptər/",
+    "meaning": "An aircraft whose powered rotor supplies both lift and thrust, so it can hover and fly backward.",
+    "ja": "ヘリコプター。動力ローターが揚力と推力の両方を出し、空中停止や後退もできる航空機。",
+    "category": "air",
+    "origin": "French hélicoptère, from Greek helix, spiral, and pteron, wing."
+  },
+  {
+    "word": "Horsecar",
+    "ipa": "/ˈhɔrsˌkɑr/",
+    "meaning": "A streetcar pulled by horses, before electric trams.",
+    "ja": "馬車鉄道の客車。電化前の、馬が牽く路面電車。",
+    "category": "rail",
+    "origin": "English horse + car."
+  },
+  {
+    "word": "Houseboat",
+    "ipa": "/ˈhaʊsˌboʊt/",
+    "meaning": "A boat fitted out as a place to live.",
+    "ja": "ハウスボート。住めるように仕立てた船。",
+    "category": "boat",
+    "origin": "English house + boat."
+  },
+  {
+    "word": "Hovercraft",
+    "ipa": "/ˈhʌvərˌkræft/",
+    "meaning": "A vehicle that travels on a cushion of air, over water or flat ground.",
+    "ja": "ホバークラフト。空気のクッションの上に浮いて、水面や平地を進む乗り物。",
+    "category": "boat",
+    "origin": "English hover + craft. Christopher Cockerell built the first practical one in the 1950s."
+  },
+  {
+    "word": "Howdah",
+    "ipa": "/ˈhaʊdə/",
+    "meaning": "A seat, often canopied, carried on the back of an elephant or a camel.",
+    "ja": "象やラクダの背に載せる座席。ハウダ。しばしば屋根が付く。",
+    "category": "land",
+    "origin": "Urdu and Persian haudah, from Arabic hawdaj, a litter carried by a camel."
+  },
+  {
+    "word": "Hydrofoil",
+    "ipa": "/ˈhaɪdrəˌfɔɪl/",
+    "meaning": "A boat that rises onto underwater wings, called foils, as it gains speed.",
+    "ja": "水中翼船。速くなると、水中の翼（フォイル）の上に船体が持ち上がる船。",
+    "category": "boat",
+    "origin": "English, from Greek hydōr, water, and foil."
+  },
+  {
+    "word": "Icebreaker",
+    "ipa": "/ˈaɪsˌbreɪkər/",
+    "meaning": "A ship built with the hull and power to break a channel through sea ice.",
+    "ja": "砕氷船。海氷を割って水路を開くための船体と機関を持つ船。",
+    "category": "boat",
+    "origin": "English ice + breaker."
+  },
+  {
+    "word": "Incline",
+    "ipa": "/ˈɪnklaɪn/",
+    "meaning": "A steep track on which cars are hauled by cable. Some canal inclines carry boats on a cradle.",
+    "ja": "インクライン。鋼索で車両を引き上げる急な軌道。運河では、船を台車に載せて上下させるものもある。",
+    "category": "rail",
+    "origin": "English, short for inclined plane."
+  },
+  {
+    "word": "Interurban",
+    "ipa": "/ˌɪntərˈɜrbən/",
+    "meaning": "An electric railway running between towns, especially in early twentieth-century North America.",
+    "ja": "インターアーバン。町と町を結ぶ電気鉄道。20世紀初頭の北米に多かった。",
+    "category": "rail",
+    "origin": "American English inter- + urban."
+  },
+  {
+    "word": "Jaunting car",
+    "ipa": "/ˈdʒɔntɪŋ kɑr/",
+    "meaning": "An Irish two-wheeled car with passengers seated sideways, over the wheels, facing outward.",
+    "ja": "ジョンティング・カー。アイルランドの二輪馬車。客は車輪の上、外向きに横向きで座る。",
+    "category": "land",
+    "origin": "English jaunt + car. Irish."
+  },
+  {
+    "word": "Jeep",
+    "ipa": "/dʒip/",
+    "meaning": "The World War II American nickname for a small four-wheel-drive quarter-ton truck.",
+    "ja": "ジープ。第二次大戦のアメリカで、小型四輪駆動の四分の一トントラックを呼んだあだ名。",
+    "category": "land",
+    "origin": "Disputed. Explanations include the initials GP and Eugene the Jeep, a character in the comic Popeye.",
+    "note": "Jeep is a trademark. Open the brand search before using the word as a product name."
+  },
+  {
+    "word": "Jetliner",
+    "ipa": "/ˈdʒɛtˌlaɪnər/",
+    "meaning": "An airliner driven by jet engines.",
+    "ja": "ジェット旅客機。ジェットエンジンで飛ぶ旅客機。",
+    "category": "air",
+    "origin": "English jet + liner."
+  },
+  {
+    "word": "Jinrikisha",
+    "ipa": "/dʑinɾikiɕa/",
+    "meaning": "The full Japanese name of the rickshaw: a human-powered vehicle.",
+    "ja": "人力車（じんりきしゃ）。人の力で引く車。明治初期に生まれたことば。",
+    "category": "land",
+    "origin": "Japanese 人力車: 人 person, 力 power, 車 vehicle. Coined in the early Meiji period."
+  },
+  {
+    "word": "Junk",
+    "ipa": "/dʒʌŋk/",
+    "meaning": "A batten-sailed ship of the China seas, with a flat bow and a high stern.",
+    "ja": "ジャンク。中国海域の、骨を通した帆を張る船。ゴミの junk とは別語。",
+    "category": "boat",
+    "origin": "Portuguese junco, from Malay or Javanese jong, a large Southeast Asian ship. English later applied it to the Chinese chuán."
+  },
+  {
+    "word": "Kago",
+    "ipa": "/kaɡo/",
+    "meaning": "A Japanese basket litter hung from a single pole and carried by two people.",
+    "ja": "駕籠（かご）。一本の棒に籠を吊り、二人が担ぐ乗り物。",
+    "category": "land",
+    "origin": "Japanese 駕籠."
+  },
+  {
+    "word": "Kayak",
+    "ipa": "/ˈkaɪæk/",
+    "meaning": "A decked boat paddled with a double-bladed paddle, originally a skin boat of the Arctic.",
+    "ja": "カヤック。甲板を持ち、両刃のパドルで漕ぐ舟。もとは北極圏の皮舟。",
+    "category": "boat",
+    "origin": "Inuit qajaq."
+  },
+  {
+    "word": "Ketch",
+    "ipa": "/kɛtʃ/",
+    "meaning": "A two-masted sailboat whose smaller aft mast stands forward of the rudder post.",
+    "ja": "ケッチ。二本マストの帆船。小さい後ろマストは、舵の軸より前にある。",
+    "category": "boat",
+    "origin": "Earlier catch. Probably from the verb catch, in the sense of chase, as with yacht."
+  },
+  {
+    "word": "Kibitka",
+    "ipa": "/kɪˈbɪtkə/",
+    "meaning": "A covered Russian or Central Asian carriage or sledge. Also a felt tent carried on a cart.",
+    "ja": "キビトカ。ロシアや中央アジアの、屋根付きの馬車やそり。フェルトの天幕を荷車に載せたものも指す。",
+    "category": "land",
+    "origin": "Russian kibitka, from a Turkic word for a booth or covered cart."
+  },
+  {
+    "word": "Kite",
+    "ipa": "/kaɪt/",
+    "meaning": "A tethered flying device held in the wind by a line.",
+    "ja": "凧（カイト）。糸でつながれ、風を受けて飛ぶもの。",
+    "category": "air",
+    "origin": "Old English cȳta, a bird of prey. The flying toy was named from the bird."
+  },
+  {
+    "word": "Knarr",
+    "ipa": "/nɑr/",
+    "meaning": "The broader Norse cargo ship, deeper and shorter than a longship, used on the Atlantic trade.",
+    "ja": "クノール。ノース人の荷船。ロングシップより幅があり、喫水が深く、大西洋の交易に使われた。",
+    "category": "boat",
+    "origin": "Old Norse knǫrr."
+  },
+  {
+    "word": "Landau",
+    "ipa": "/ˈlændɔ/",
+    "meaning": "A four-wheeled carriage with a folding top in two parts, so it can be open, half open, or closed.",
+    "ja": "ランドー。四輪の馬車で、幌が前後二つに分かれ、開放・半開・密閉ができる。",
+    "category": "land",
+    "origin": "Landau, a town in the Rhineland-Palatinate, Germany."
+  },
+  {
+    "word": "Landaulet",
+    "ipa": "/ˌlændɔˈlɛt/",
+    "meaning": "A landau with the front seat covered and only the rear top folding.",
+    "ja": "ランドーレット。前席は屋根付きで、後ろの幌だけが折りたためるランドー。",
+    "category": "land",
+    "origin": "French diminutive of landau."
+  },
+  {
+    "word": "Lander",
+    "ipa": "/ˈlændər/",
+    "meaning": "A spacecraft built to set down on a moon or a planet.",
+    "ja": "着陸船。月や惑星の表面に降りるために作られた宇宙機。ランダー。",
+    "category": "space",
+    "origin": "English land + -er."
+  },
+  {
+    "word": "Lifeboat",
+    "ipa": "/ˈlaɪfˌboʊt/",
+    "meaning": "A boat carried for rescue, or a shore boat built to reach a wreck.",
+    "ja": "救命艇。遭難に備えて船に載せるボート。また、岸から難船へ向かう救助艇。",
+    "category": "boat",
+    "origin": "English life + boat."
+  },
+  {
+    "word": "Lifting body",
+    "ipa": "/ˈlɪftɪŋ ˈbɑdi/",
+    "meaning": "A wingless craft whose body shape produces lift. Flown in reentry research from the 1960s.",
+    "ja": "リフティングボディ。翼がなく、胴体の形そのもので揚力を生む機体。1960年代からの再突入研究で飛んだ。",
+    "category": "space",
+    "origin": "English lifting + body."
+  },
+  {
+    "word": "Limousine",
+    "ipa": "/ˌlɪməˈzin/",
+    "meaning": "A closed car with a separate compartment for the driver.",
+    "ja": "リムジン。運転席が客室と仕切られた箱型の自動車。",
+    "category": "land",
+    "origin": "French, from Limousin. The covered driver's seat was likened to the hooded cloak of Limousin shepherds."
+  },
+  {
+    "word": "Liner",
+    "ipa": "/ˈlaɪnər/",
+    "meaning": "A passenger ship that keeps a scheduled route, a line.",
+    "ja": "定期船（ライナー）。決まった航路を往復する客船。",
+    "category": "boat",
+    "origin": "English, from line, a scheduled route."
+  },
+  {
+    "word": "Litter",
+    "ipa": "/ˈlɪtər/",
+    "meaning": "A couch or chair carried on poles.",
+    "ja": "輿（こし）。棒で担ぐ寝台や椅子。",
+    "category": "land",
+    "origin": "French litière, from Latin lectus, a bed."
+  },
+  {
+    "word": "Locomotive",
+    "ipa": "/ˌloʊkəˈmoʊtɪv/",
+    "meaning": "The engine that pulls or pushes a train.",
+    "ja": "機関車。列車を牽く、または押す動力車。",
+    "category": "rail",
+    "origin": "Latin locus, place, and Medieval Latin motivus, causing motion: that which moves itself from its place."
+  },
+  {
+    "word": "Longship",
+    "ipa": "/ˈlɔŋˌʃɪp/",
+    "meaning": "The long, clinker-built ship of the Norse, narrow, oared, and fitted with a sail.",
+    "ja": "ロングシップ。ノース人の細長い船。外板を重ねて張り、櫂と帆で進む。",
+    "category": "boat",
+    "origin": "English, for the Old Norse langskip."
+  },
+  {
+    "word": "Lorcha",
+    "ipa": "/ˈlɔrtʃə/",
+    "meaning": "A ship of the China coast with a European-style hull and a junk rig.",
+    "ja": "ローチャ。中国沿岸の船で、西洋式の船体にジャンクの帆装を組んだもの。",
+    "category": "boat",
+    "origin": "Portuguese, from the sixteenth century on the China coast."
+  },
+  {
+    "word": "Lorry",
+    "ipa": "/ˈlɔri/",
+    "meaning": "The British word for a motor truck.",
+    "ja": "ローリー。貨物自動車のイギリスでの呼び方。",
+    "category": "land",
+    "origin": "British English. Origin uncertain."
+  },
+  {
+    "word": "Luge",
+    "ipa": "/luʒ/",
+    "meaning": "A small racing sled ridden feet-first, the rider on their back.",
+    "ja": "リュージュ。足を前にして仰向けに乗る、競技用の小型そり。",
+    "category": "land",
+    "origin": "French luge, from Franco-Provençal."
+  },
+  {
+    "word": "Maglev",
+    "ipa": "/ˈmæɡlɛv/",
+    "meaning": "A train that floats above its guideway on magnetic forces, without wheels on rails.",
+    "ja": "磁気浮上式鉄道（マグレブ）。磁力で案内路の上に浮かび、車輪をレールに載せない列車。",
+    "category": "rail",
+    "origin": "English magnetic + levitation."
+  },
+  {
+    "word": "Metro",
+    "ipa": "/ˈmɛtroʊ/",
+    "meaning": "A city railway, usually in tunnels. Short for metropolitan railway.",
+    "ja": "メトロ。都市の鉄道。多くは地下を走る。メトロポリタン鉄道の短縮。",
+    "category": "rail",
+    "origin": "French métro, from chemin de fer métropolitain."
+  },
+  {
+    "word": "Microlight",
+    "ipa": "/ˈmaɪkrəˌlaɪt/",
+    "meaning": "The British word for a very light powered aircraft, close to the American ultralight.",
+    "ja": "マイクロライト。ごく軽い動力付き航空機のイギリスでの呼び方。アメリカのウルトラライトに近い。",
+    "category": "air",
+    "origin": "English micro- + light."
+  },
+  {
+    "word": "Minecart",
+    "ipa": "/ˈmaɪnˌkɑrt/",
+    "meaning": "A small open car on rails, used to haul ore or rock in a mine.",
+    "ja": "トロッコ。鉱山で鉱石や岩石を運ぶ、レール上の小さな無蓋車。",
+    "category": "rail",
+    "origin": "English mine + cart."
+  },
+  {
+    "word": "Module",
+    "ipa": "/ˈmɑdʒul/",
+    "meaning": "A self-contained section of a spacecraft that can be joined to others.",
+    "ja": "モジュール。他の部分とつなげる、独立した宇宙船の一区画。",
+    "category": "space",
+    "origin": "Latin modulus, a small measure."
+  },
+  {
+    "word": "Monoplane",
+    "ipa": "/ˈmɑnəˌpleɪn/",
+    "meaning": "An airplane with one wing, the usual arrangement now.",
+    "ja": "単葉機。翼が一枚の飛行機。今の飛行機の普通の形。",
+    "category": "air",
+    "origin": "English mono- + plane."
+  },
+  {
+    "word": "Monorail",
+    "ipa": "/ˈmɑnəˌreɪl/",
+    "meaning": "A railway whose cars run on a single rail, or hang beneath one.",
+    "ja": "モノレール。一本のレールの上を走る、またはレールにぶら下がる鉄道。",
+    "category": "rail",
+    "origin": "English mono-, one, and rail. Nineteenth century."
+  },
+  {
+    "word": "Monowheel",
+    "ipa": "/ˈmɑnoʊˌwil/",
+    "meaning": "A vehicle whose rider sits inside one large wheel, not on top of it as on a unicycle.",
+    "ja": "モノホイール。大きな一つの車輪の内側に人が乗る乗り物。上に乗る一輪車とは違う。",
+    "category": "land",
+    "origin": "English mono- + wheel."
+  },
+  {
+    "word": "Moped",
+    "ipa": "/ˈmoʊˌpɛd/",
+    "meaning": "A small motorcycle that originally had pedals as well as an engine.",
+    "ja": "モペッド。もともとエンジンとペダルの両方を持つ小型の二輪車。",
+    "category": "land",
+    "origin": "Swedish blend of motor and pedal, coined in 1952."
+  },
+  {
+    "word": "Motorcycle",
+    "ipa": "/ˈmoʊtərˌsaɪkəl/",
+    "meaning": "A two-wheeled vehicle driven by an engine, straddled by the rider.",
+    "ja": "オートバイ。エンジンで進む二輪車。乗り手はまたがる。モーターサイクル。",
+    "category": "land",
+    "origin": "English motor + cycle."
+  },
+  {
+    "word": "Narrowboat",
+    "ipa": "/ˈnæroʊˌboʊt/",
+    "meaning": "The long canal boat of Britain, about seven feet wide, built to fit the narrow locks.",
+    "ja": "ナローボート。イギリスの運河船。幅は約2メートルで、狭い閘門を通る。",
+    "category": "boat",
+    "origin": "English narrow + boat."
+  },
+  {
+    "word": "Norimono",
+    "ipa": "/noɾimono/",
+    "meaning": "A Japanese enclosed palanquin carried on poles. In modern Japanese, norimono simply means vehicle.",
+    "ja": "乗物（のりもの）。人が担ぐ屋根付きの輿。現代語の「乗り物」は、あらゆる乗り物を指す。",
+    "category": "land",
+    "origin": "Japanese 乗物."
+  },
+  {
+    "word": "Omnibus",
+    "ipa": "/ˈɑmnəbəs/",
+    "meaning": "A large public carriage that anyone could ride, the ancestor of the bus.",
+    "ja": "オムニバス。誰でも乗れる大型の乗合馬車。バスのことばの元。",
+    "category": "land",
+    "origin": "Latin omnibus, for all. French voiture omnibus, a carriage for everyone."
+  },
+  {
+    "word": "Orbiter",
+    "ipa": "/ˈɔrbɪtər/",
+    "meaning": "The part of a spacecraft that stays in orbit, as distinct from a lander. Also the spaceplane of the Space Shuttle.",
+    "ja": "オービター。着陸船と分かれ、軌道にとどまる宇宙機。スペースシャトルの本体もこう呼ぶ。",
+    "category": "space",
+    "origin": "English orbit + -er."
+  },
+  {
+    "word": "Ornithopter",
+    "ipa": "/ˈɔrnəˌθɑptər/",
+    "meaning": "An aircraft that flies by flapping its wings, as a bird does. Most are experimental.",
+    "ja": "オーニソプター。鳥のように翼をはばたかせて飛ぶ航空機。ほとんどは実験機。羽ばたき機。",
+    "category": "air",
+    "origin": "Greek ornis, bird, and pteron, wing."
+  },
+  {
+    "word": "Outrigger",
+    "ipa": "/ˈaʊtˌrɪɡər/",
+    "meaning": "A float set out from a canoe to steady it, and a canoe fitted with that float.",
+    "ja": "アウトリガー。転覆を防ぐために舷側へ突き出した浮き。またその浮きを持つカヌー。",
+    "category": "boat",
+    "origin": "English out + rigger."
+  },
+  {
+    "word": "Paddlewheeler",
+    "ipa": "/ˈpædlˌwilər/",
+    "meaning": "A steamer pushed by a wheel of paddles at the stern or at the sides.",
+    "ja": "外輪船。船尾や両舷の水車状の輪で進む蒸気船。",
+    "category": "boat",
+    "origin": "English paddle + wheeler."
+  },
+  {
+    "word": "Palanquin",
+    "ipa": "/ˌpælənˈkin/",
+    "meaning": "An enclosed litter carried on poles by several bearers, used in South and East Asia.",
+    "ja": "パーランキーン。数人で棒を担ぐ、屋根付きの輿。南アジアや東アジアで使われた。",
+    "category": "land",
+    "origin": "Portuguese palanquim, ultimately Sanskrit paryaṅka, a bed or couch."
+  },
+  {
+    "word": "Paraglider",
+    "ipa": "/ˈpærəˌɡlaɪdər/",
+    "meaning": "A foot-launched wing of ram-air fabric cells, with the pilot hanging in a harness.",
+    "ja": "パラグライダー。空気でふくらむ布の翼に、ハーネスで人がぶら下がる。足元から飛び立つ。",
+    "category": "air",
+    "origin": "English parachute + glider."
+  },
+  {
+    "word": "Pedicab",
+    "ipa": "/ˈpɛdiˌkæb/",
+    "meaning": "A cycle rickshaw: a passenger carriage pedaled by a rider, often with the seat in front.",
+    "ja": "輪タク。自転車で漕いで客を運ぶ車。ペディキャブ。",
+    "category": "land",
+    "origin": "English pedal + cab."
+  },
+  {
+    "word": "Penny-farthing",
+    "ipa": "/ˌpɛni ˈfɑrðɪŋ/",
+    "meaning": "The high-wheel bicycle of the 1870s, with a huge front wheel and a tiny rear one. Formally, an ordinary.",
+    "ja": "ペニー・ファージング。1870年代の高輪自転車。前輪が非常に大きく、後輪が小さい。正式にはオーディナリー。",
+    "category": "land",
+    "origin": "English, from the penny and the farthing, coins whose sizes suggested the two wheels."
+  },
+  {
+    "word": "People mover",
+    "ipa": "/ˈpipəl ˌmuvər/",
+    "meaning": "A small automated transit line, often at an airport, with driverless cars on their own guideway.",
+    "ja": "ピープルムーバー。空港などに多い、専用路を無人で走る小型の交通機関。",
+    "category": "rail",
+    "origin": "English people + mover. Late twentieth century."
+  },
+  {
+    "word": "Phaeton",
+    "ipa": "/ˈfeɪətən/",
+    "meaning": "A light, open, four-wheeled carriage, fast and with little protection from the weather.",
+    "ja": "フェートン。軽く開いた四輪馬車。速く、天候をしのぐ設備は少ない。",
+    "category": "land",
+    "origin": "Greek Phaethōn, the reckless son who drove the chariot of the sun."
+  },
+  {
+    "word": "Pirogue",
+    "ipa": "/ˈpiroʊɡ/",
+    "meaning": "A dugout canoe, or a small flat-bottomed boat of that general shape.",
+    "ja": "ピローグ。丸木舟、またはそれに近い平底の小舟。",
+    "category": "boat",
+    "origin": "French, from Spanish piragua, from a Carib language."
+  },
+  {
+    "word": "Prahu",
+    "ipa": "/ˈprɑhu/",
+    "meaning": "A traditional boat of the Malay archipelago.",
+    "ja": "プラウ。マレー語・インドネシア語 perahu の舟。プロアということばの元。",
+    "category": "boat",
+    "origin": "Malay and Indonesian perahu, boat."
+  },
+  {
+    "word": "Prairie schooner",
+    "ipa": "/ˈprɛri ˈskunər/",
+    "meaning": "A covered wagon of the American overland trails, nicknamed because its white canvas suggested a schooner's sail. Lighter than a Conestoga.",
+    "ja": "プレーリー・スクーナー。アメリカの大陸横断路を渡った幌馬車。白い帆布をスクーナーの帆に見立てたあだ名。コネストーガより軽い。",
+    "category": "land",
+    "origin": "American English prairie + schooner."
+  },
+  {
+    "word": "Proa",
+    "ipa": "/ˈproʊə/",
+    "meaning": "A Pacific sailing canoe with one outrigger. It reverses ends instead of tacking through the wind.",
+    "ja": "プロア。浮きを一つ持つ太平洋の帆走カヌー。風上へ回るのではなく、前後を入れ替えて進む。",
+    "category": "boat",
+    "origin": "Malay perahu, boat, through Portuguese and Spanish. See also Prahu."
+  },
+  {
+    "word": "Probe",
+    "ipa": "/proʊb/",
+    "meaning": "An uncrewed spacecraft sent to gather data, often on a flyby or a one-way trip.",
+    "ja": "探査機。データを集めるために送る、人の乗らない宇宙機。接近通過や片道の飛行が多い。",
+    "category": "space",
+    "origin": "Latin probare, to test."
+  },
+  {
+    "word": "Pulka",
+    "ipa": "/ˈpʊlkə/",
+    "meaning": "A boat-shaped one-person sledge of the Sami, often pulled by a single reindeer.",
+    "ja": "プルカ。サーミの、舟の形をした一人乗りのそり。一頭のトナカイが引くことが多い。",
+    "category": "land",
+    "origin": "Finnish pulkka, related to Sami pulkke."
+  },
+  {
+    "word": "Pullman",
+    "ipa": "/ˈpʊlmən/",
+    "meaning": "A railroad sleeping or parlor car of the comfortable type introduced by George Pullman.",
+    "ja": "プルマン車。ジョージ・プルマンが広めた、寝台や座席の豪華な鉄道客車。",
+    "category": "rail",
+    "origin": "From George M. Pullman, whose company built the cars in the nineteenth century."
+  },
+  {
+    "word": "Punt",
+    "ipa": "/pʌnt/",
+    "meaning": "A flat-bottomed boat pushed along with a pole, as on the River Thames.",
+    "ja": "パント。竿で進む平底舟。テムズ川のものがよく知られる。",
+    "category": "boat",
+    "origin": "Old English, from Latin pontō, a flat-bottomed boat."
+  },
+  {
+    "word": "Quadcopter",
+    "ipa": "/ˈkwɑdˌkɑptər/",
+    "meaning": "A rotorcraft with four rotors, the usual layout of a small camera drone.",
+    "ja": "クアッドコプター。ローターを四つ持つ回転翼機。小型カメラドローンの典型。",
+    "category": "air",
+    "origin": "English quad- + helicopter."
+  },
+  {
+    "word": "Quadriga",
+    "ipa": "/kwɑˈdriɡə/",
+    "meaning": "A chariot drawn by four horses abreast.",
+    "ja": "クアドリガ。四頭の馬を横一列に付けたチャリオット。",
+    "category": "land",
+    "origin": "Latin, from quadri-, four, and iugum, a yoke."
+  },
+  {
+    "word": "Raft",
+    "ipa": "/ræft/",
+    "meaning": "A flat floating platform of logs, barrels, or other buoyant pieces.",
+    "ja": "筏（いかだ）。丸太や樽などを組んで浮かべた、平たい乗りもの。",
+    "category": "boat",
+    "origin": "Old Norse raptr, a log."
+  },
+  {
+    "word": "Railbus",
+    "ipa": "/ˈreɪlˌbʌs/",
+    "meaning": "A very light passenger rail vehicle, close to a bus body on flanged wheels.",
+    "ja": "レールバス。バスに近い車体を、フランジ付きの車輪で線路に載せた軽量気動車。",
+    "category": "rail",
+    "origin": "English rail + bus. German Schienenbus is the parallel word."
+  },
+  {
+    "word": "Rickshaw",
+    "ipa": "/ˈrɪkˌʃɔ/",
+    "meaning": "A small two-wheeled hooded cart pulled by a person.",
+    "ja": "人力車。人が引く、幌付きの二輪車。英語の rickshaw は日本語の短縮。",
+    "category": "land",
+    "origin": "English shortening of Japanese jinrikisha, late nineteenth century."
+  },
+  {
+    "word": "Roadster",
+    "ipa": "/ˈroʊdstər/",
+    "meaning": "An open two-seat car, and earlier a horse or a bicycle suited to the road.",
+    "ja": "ロードスター。二人乗りの開放自動車。もとは、道を行くのに向いた馬や自転車。",
+    "category": "land",
+    "origin": "English road + -ster."
+  },
+  {
+    "word": "Rockaway",
+    "ipa": "/ˈrɑkəˌweɪ/",
+    "meaning": "An American carriage whose fixed roof extends forward over the driver.",
+    "ja": "ロッカウェイ。固定した屋根が御者の上まで前に伸びる、アメリカの馬車。",
+    "category": "land",
+    "origin": "American. The name is linked to a place called Rockaway; sources disagree between New Jersey and Long Island."
+  },
+  {
+    "word": "Rocket",
+    "ipa": "/ˈrɑkɪt/",
+    "meaning": "A vehicle driven by expelling hot gas, so it needs no air to push against.",
+    "ja": "ロケット。高温のガスを噴き出して進む飛翔体。押す相手の空気を必要としない。",
+    "category": "space",
+    "origin": "Italian rocchetto, a small spindle, from the shape of early firework rockets."
+  },
+  {
+    "word": "Rover",
+    "ipa": "/ˈroʊvər/",
+    "meaning": "A vehicle that drives on the surface of a moon or a planet after landing.",
+    "ja": "ローバー。着陸したあと、月や惑星の表面を走る車。",
+    "category": "space",
+    "origin": "English, from rove, to wander.",
+    "note": "Rover is also a historic automobile marque."
+  },
+  {
+    "word": "Sailplane",
+    "ipa": "/ˈseɪlˌpleɪn/",
+    "meaning": "A high-performance glider, built to travel far on a small loss of height.",
+    "ja": "セールプレーン。高い滑空性能を持つグライダー。わずかな高度の低下で長く進む。",
+    "category": "air",
+    "origin": "English sail + plane."
+  },
+  {
+    "word": "Sampan",
+    "ipa": "/ˈsæmpæn/",
+    "meaning": "A flat-bottomed wooden boat of East and Southeast Asian rivers and coasts.",
+    "ja": "サンパン。東アジア、東南アジアの川や沿岸の平底舟。",
+    "category": "boat",
+    "origin": "Probably Old Malay sāmvau. The story that it is Chinese for three planks is a folk etymology."
+  },
+  {
+    "word": "Satellite",
+    "ipa": "/ˈsætəˌlaɪt/",
+    "meaning": "Here, an artificial companion that stays in orbit and does a job: relay, imaging, navigation.",
+    "ja": "人工衛星。軌道にとどまり、中継、撮影、航法などの仕事をする人工の伴星。",
+    "category": "space",
+    "origin": "Latin satelles, an attendant. Kepler used it for moons; artificial satellites are twentieth century."
+  },
+  {
+    "word": "Schienenzeppelin",
+    "ipa": "/ˈʃinənˌzɛpəlɪn/",
+    "meaning": "One experimental German railcar of 1929–1931, driven by a propeller at the rear. It was a single machine, not a class of trains.",
+    "ja": "シーネンツェッペリン。1929–1931年のドイツの実験鉄道車。後ろのプロペラで進んだ。形式名ではなく、その一台の名。",
+    "category": "rail",
+    "origin": "German Schiene, rail, and Zeppelin. Designed by Franz Kruckenberg."
+  },
+  {
+    "word": "Schooner",
+    "ipa": "/ˈskunər/",
+    "meaning": "A sailing ship with two or more masts, fore-and-aft rigged, the after mast as tall as the foremast or taller.",
+    "ja": "スクーナー。二本以上のマストに前後帆を張る帆船。後ろのマストが前と同じか、より高い。",
+    "category": "boat",
+    "origin": "Uncertain. Recorded in New England in the eighteenth century. Dutch schooner is a loan from English."
+  },
+  {
+    "word": "Scooter",
+    "ipa": "/ˈskutər/",
+    "meaning": "A small vehicle with a low footboard, either pushed with one foot or driven by a small engine.",
+    "ja": "スクーター。低い踏み板を持つ小型車。片足で蹴るキックスケーターと、小型エンジンのスクーターの両方。",
+    "category": "land",
+    "origin": "English scoot + -er."
+  },
+  {
+    "word": "Scow",
+    "ipa": "/skaʊ/",
+    "meaning": "A large flat-bottomed boat with square ends, for cargo in shallow water.",
+    "ja": "スカウ。浅瀬で荷を運ぶ、船端が角ばった大型の平底舟。",
+    "category": "boat",
+    "origin": "Dutch schouw."
+  },
+  {
+    "word": "Seaplane",
+    "ipa": "/ˈsiˌpleɪn/",
+    "meaning": "Any airplane that can take off from and land on water, whether on floats or on a boat hull.",
+    "ja": "水上機。水面から離着水できる飛行機の総称。フロート式も飛行艇も含む。",
+    "category": "air",
+    "origin": "English sea + plane."
+  },
+  {
+    "word": "Sedan",
+    "ipa": "/səˈdæn/",
+    "meaning": "An enclosed chair carried on poles, and later a closed automobile body named for that chair.",
+    "ja": "セダン。棒で担ぐ屋根付きの椅子。のちに、その形から名付けた箱型の自動車。",
+    "category": "land",
+    "origin": "Uncertain. The chair is seventeenth-century English; a link to the town of Sedan is disputed. The car body takes the chair's name."
+  },
+  {
+    "word": "Shinkansen",
+    "ipa": "/ɕiŋkaɰ̃seɴ/",
+    "meaning": "Japan's high-speed railway, and the trains that run on it. The word means new trunk line.",
+    "ja": "新幹線。日本の高速鉄道と、その列車。ことばの意味は「新しい幹線」。",
+    "category": "rail",
+    "origin": "Japanese 新幹線. The Tōkaidō line opened in 1964."
+  },
+  {
+    "word": "Shuttle",
+    "ipa": "/ˈʃʌtəl/",
+    "meaning": "A craft that goes back and forth. In spaceflight, a reusable vehicle between Earth and orbit.",
+    "ja": "シャトル。往復する乗り物。宇宙では、地上と軌道のあいだを再利用して往復する宇宙船。",
+    "category": "space",
+    "origin": "Old English scytel, a dart or bolt. The weaving shuttle, which shoots back and forth, gave the vehicle sense."
+  },
+  {
+    "word": "Sidecar",
+    "ipa": "/ˈsaɪdˌkɑr/",
+    "meaning": "A one-wheeled passenger car attached to the side of a motorcycle.",
+    "ja": "サイドカー。オートバイの横につける、車輪一つの客席。",
+    "category": "land",
+    "origin": "English side + car."
+  },
+  {
+    "word": "Skateboard",
+    "ipa": "/ˈskeɪtˌbɔrd/",
+    "meaning": "A short board on small wheels, ridden standing.",
+    "ja": "スケートボード。小さな車輪をつけた短い板。立って乗る。",
+    "category": "land",
+    "origin": "English skate + board."
+  },
+  {
+    "word": "Skiff",
+    "ipa": "/skɪf/",
+    "meaning": "A small, light open boat.",
+    "ja": "スキフ。小さく軽い、甲板のない舟。",
+    "category": "boat",
+    "origin": "French esquif and Italian schifo, from a Germanic word for ship."
+  },
+  {
+    "word": "Sledge",
+    "ipa": "/slɛdʒ/",
+    "meaning": "A vehicle on runners for snow and ice. American English often says sled.",
+    "ja": "そり。雪や氷の上を滑走板で進む乗り物。アメリカ英語では sled ということが多い。",
+    "category": "land",
+    "origin": "Middle Dutch slede."
+  },
+  {
+    "word": "Sleigh",
+    "ipa": "/sleɪ/",
+    "meaning": "A horse-drawn passenger sledge.",
+    "ja": "馬ぞり。人を乗せる、馬が引くそり。スレイ。",
+    "category": "land",
+    "origin": "Dutch slee."
+  },
+  {
+    "word": "Sloop",
+    "ipa": "/slup/",
+    "meaning": "A single-masted fore-and-aft sailboat with one headsail.",
+    "ja": "スループ。マスト一本、前後帆、船首の帆が一つの帆船。",
+    "category": "boat",
+    "origin": "Dutch sloep."
+  },
+  {
+    "word": "Snowmobile",
+    "ipa": "/ˈsnoʊmoʊˌbil/",
+    "meaning": "A motor vehicle for snow, running on skis and a driven track.",
+    "ja": "スノーモービル。スキーと駆動する履帯で雪上を走る動力車。",
+    "category": "land",
+    "origin": "English snow + automobile."
+  },
+  {
+    "word": "Sociable",
+    "ipa": "/ˈsoʊʃəbəl/",
+    "meaning": "A cycle or carriage with two seats side by side, so the riders can talk.",
+    "ja": "ソシアブル。二人が横に並んで乗れる自転車や馬車。話しながら進むための形。",
+    "category": "land",
+    "origin": "English sociable. The side-by-side cycle is the usual sense here."
+  },
+  {
+    "word": "Solar sail",
+    "ipa": "/ˈsoʊlər seɪl/",
+    "meaning": "A spacecraft pushed by sunlight pressing on a large reflective sheet.",
+    "ja": "ソーラーセイル。大きな反射膜に太陽光の圧力を受けて進む宇宙機。太陽帆。",
+    "category": "space",
+    "origin": "English solar + sail."
+  },
+  {
+    "word": "Soyuz",
+    "ipa": "/sɔɪˈuz/",
+    "meaning": "The Russian word for union. Also the name of a family of crewed spacecraft and of the rockets that launch them.",
+    "ja": "ソユーズ。ロシア語で「結合、同盟」。有人宇宙船と、それを打ち上げるロケットの系列名でもある。",
+    "category": "space",
+    "origin": "Russian soyuz, union."
+  },
+  {
+    "word": "Space tug",
+    "ipa": "/speɪs tʌɡ/",
+    "meaning": "A spacecraft whose job is to move other satellites or modules from one orbit to another.",
+    "ja": "宇宙タグ。他の衛星やモジュールを、ある軌道から別の軌道へ運ぶ宇宙機。",
+    "category": "space",
+    "origin": "English space + tug, a boat that tows."
+  },
+  {
+    "word": "Spacecraft",
+    "ipa": "/ˈspeɪsˌkræft/",
+    "meaning": "A vehicle built to operate beyond the atmosphere.",
+    "ja": "宇宙機。大気圏の外で働くように作られた乗り物。",
+    "category": "space",
+    "origin": "English space + craft. Mid-twentieth century."
+  },
+  {
+    "word": "Spaceplane",
+    "ipa": "/ˈspeɪsˌpleɪn/",
+    "meaning": "A winged vehicle that flies as an aircraft in the air and as a spacecraft above it.",
+    "ja": "スペースプレーン。大気中では飛行機、その上では宇宙船として飛ぶ翼のある機体。",
+    "category": "space",
+    "origin": "English space + plane."
+  },
+  {
+    "word": "Speeder",
+    "ipa": "/ˈspidər/",
+    "meaning": "A small motorized rail car used in North America to inspect the track.",
+    "ja": "スピーダー。北米で線路の点検に使う、小型の動力軌道車。",
+    "category": "rail",
+    "origin": "American English, from speed. Also called a railway motor car."
+  },
+  {
+    "word": "Stagecoach",
+    "ipa": "/ˈsteɪdʒkoʊtʃ/",
+    "meaning": "A coach that ran a route in stages, changing horses at inns along the way.",
+    "ja": "駅馬車。宿場ごとに馬を替えながら、区間を区切って走る乗合馬車。",
+    "category": "land",
+    "origin": "English stage + coach."
+  },
+  {
+    "word": "Starship",
+    "ipa": "/ˈstɑrˌʃɪp/",
+    "meaning": "A spacecraft meant to travel between stars. Mostly a word of fiction and of proposals.",
+    "ja": "スターシップ。恒星と恒星のあいだを行く宇宙船。主にフィクションや計画のことば。",
+    "category": "space",
+    "origin": "English star + ship.",
+    "note": "Particular vehicles and projects also use Starship as a proper name."
+  },
+  {
+    "word": "Steamer",
+    "ipa": "/ˈstimər/",
+    "meaning": "A ship driven by a steam engine.",
+    "ja": "蒸気船。蒸気機関で進む船。スチーマー。",
+    "category": "boat",
+    "origin": "English steam + -er."
+  },
+  {
+    "word": "Streetcar",
+    "ipa": "/ˈstritˌkɑr/",
+    "meaning": "The American word for a tram: a passenger car on street rails.",
+    "ja": "ストリートカー。路面電車のアメリカでの呼び方。",
+    "category": "rail",
+    "origin": "American English street + car."
+  },
+  {
+    "word": "Submarine",
+    "ipa": "/ˌsʌbməˈrin/",
+    "meaning": "A vessel that travels under the surface of the sea.",
+    "ja": "潜水艦。海面の下を進む船。",
+    "category": "boat",
+    "origin": "Latin sub, under, and marinus, of the sea."
+  },
+  {
+    "word": "Subway",
+    "ipa": "/ˈsʌbˌweɪ/",
+    "meaning": "An American word for a city railway that runs underground.",
+    "ja": "サブウェイ。地下を走る都市鉄道の、アメリカでの呼び方。",
+    "category": "rail",
+    "origin": "English sub- + way."
+  },
+  {
+    "word": "Sulky",
+    "ipa": "/ˈsʌlki/",
+    "meaning": "A very light two-wheeled cart for one person, now used in harness racing.",
+    "ja": "サルキー。一人用の、ごく軽い二輪車。今は繋駕競走に使う。",
+    "category": "land",
+    "origin": "English sulky, because it carries only one, as if unsociable."
+  },
+  {
+    "word": "Surrey",
+    "ipa": "/ˈsɜri/",
+    "meaning": "A pleasure carriage with two rows of seats, often with a fringed canopy. Popular in the United States.",
+    "ja": "サリー。座席が二列の遊覧馬車。房飾りのある幌が付くことが多い。アメリカで流行した。",
+    "category": "land",
+    "origin": "Surrey, the county in England."
+  },
+  {
+    "word": "Tandem",
+    "ipa": "/ˈtændəm/",
+    "meaning": "A bicycle built for two or more riders, seated one behind another.",
+    "ja": "タンデム。二人以上が前後に並んで漕ぐ自転車。",
+    "category": "land",
+    "origin": "Latin tandem, at length. A pun on the lengthwise seating."
+  },
+  {
+    "word": "Tank",
+    "ipa": "/tæŋk/",
+    "meaning": "An armored fighting vehicle that runs on tracks.",
+    "ja": "戦車。履帯で走る装甲戦闘車両。",
+    "category": "land",
+    "origin": "English tank. In 1915 the new vehicle was hidden under the code name of a water tank."
+  },
+  {
+    "word": "Tarantass",
+    "ipa": "/ˌtærənˈtæs/",
+    "meaning": "A springless Russian traveling carriage on a long, flexible wooden frame.",
+    "ja": "タランタス。ばねがなく、長くしなる木の枠の上に客室を載せたロシアの旅行馬車。",
+    "category": "land",
+    "origin": "Russian tarantas. The name is often linked to Tatar."
+  },
+  {
+    "word": "Teleferic",
+    "ipa": "/ˌtɛləˈfɛrɪk/",
+    "meaning": "An aerial cableway: cabins or cars hung from a rope, carried across a span.",
+    "ja": "テレフェリコ。空中に張った鋼索でゴンドラや客車を運ぶ索道。ロープウェイ。",
+    "category": "rail",
+    "origin": "Spanish teleférico and Italian teleferica, from Greek tēle, far."
+  },
+  {
+    "word": "Telega",
+    "ipa": "/təˈleɪɡə/",
+    "meaning": "A plain Russian four-wheeled farm cart.",
+    "ja": "テレガ。飾りのないロシアの四輪荷車。",
+    "category": "land",
+    "origin": "Russian telega."
+  },
+  {
+    "word": "Tilbury",
+    "ipa": "/ˈtɪlbəri/",
+    "meaning": "A sporty two-wheeled gig, light and without a top.",
+    "ja": "ティルベリー。幌のない、スポーティな二輪のギグ。",
+    "category": "land",
+    "origin": "Tilbury, the London coachbuilders who designed it in the early nineteenth century."
+  },
+  {
+    "word": "Tiltrotor",
+    "ipa": "/ˈtɪltˌroʊtər/",
+    "meaning": "An aircraft whose rotors tilt, pointing up for lift and forward to become propellers.",
+    "ja": "ティルトローター機。ローターの向きを変え、上を向けばヘリコプター、前を向けばプロペラ機として飛ぶ。",
+    "category": "air",
+    "origin": "English tilt + rotor."
+  },
+  {
+    "word": "Toboggan",
+    "ipa": "/təˈbɑɡən/",
+    "meaning": "A long, runnerless sled of thin boards, curved up at the front.",
+    "ja": "トボガン。滑走板を持たない、長い板のそり。前が上に反っている。",
+    "category": "land",
+    "origin": "Mi'kmaq, an Algonquian language of eastern Canada."
+  },
+  {
+    "word": "Tonga",
+    "ipa": "/ˈtɑŋɡə/",
+    "meaning": "A light two-wheeled horse carriage of India. Not the Pacific country of the same spelling.",
+    "ja": "トンガ。インドの、軽い二輪の馬車。同じ綴りの太平洋の国とは別。",
+    "category": "land",
+    "origin": "Hindi tāngā."
+  },
+  {
+    "word": "Tractor",
+    "ipa": "/ˈtræktər/",
+    "meaning": "A vehicle built to pull. On a farm, the machine that draws implements.",
+    "ja": "トラクター。引くための車両。農場では作業機を牽く機械。",
+    "category": "land",
+    "origin": "Latin trahere, to draw or pull."
+  },
+  {
+    "word": "Tram",
+    "ipa": "/træm/",
+    "meaning": "A passenger car that runs on rails in the street. The British and international word; American English usually says streetcar.",
+    "ja": "路面電車。街路のレールを走る客車。イギリスや国際的な言い方で、アメリカではストリートカーが多い。",
+    "category": "rail",
+    "origin": "Probably Low German or Scots tram, a beam or shaft. The vehicle sense grew from tramway."
+  },
+  {
+    "word": "Tramway",
+    "ipa": "/ˈtræmˌweɪ/",
+    "meaning": "The track or system of a tram, including the rail lines once laid in mines.",
+    "ja": "トラムウェイ。路面電車の線路や系統。鉱山に敷かれた軌道もこう呼んだ。",
+    "category": "rail",
+    "origin": "English tram + way."
+  },
+  {
+    "word": "Tricycle",
+    "ipa": "/ˈtraɪsɪkəl/",
+    "meaning": "A three-wheeled pedal vehicle.",
+    "ja": "三輪車。車輪が三つの足こぎ車。",
+    "category": "land",
+    "origin": "English tri- + cycle."
+  },
+  {
+    "word": "Trimaran",
+    "ipa": "/ˈtraɪməræn/",
+    "meaning": "A boat with a main hull and a smaller hull on each side.",
+    "ja": "トリマラン。中央の船体の左右に、小さな船体をつけた船。",
+    "category": "boat",
+    "origin": "English tri- added to catamaran, in the twentieth century."
+  },
+  {
+    "word": "Triplane",
+    "ipa": "/ˈtraɪˌpleɪn/",
+    "meaning": "An airplane with three wings stacked one above another.",
+    "ja": "三葉機。翼を上下三段に重ねた飛行機。",
+    "category": "air",
+    "origin": "English tri- + plane."
+  },
+  {
+    "word": "Trireme",
+    "ipa": "/ˈtraɪrim/",
+    "meaning": "An ancient Mediterranean warship rowed in three banks of oars.",
+    "ja": "三段櫂船（トリレーメ）。古代地中海の軍船で、櫂を上下三段に並べた。",
+    "category": "boat",
+    "origin": "Latin trirēmis, three-oared. Greek triērēs."
+  },
+  {
+    "word": "Troika",
+    "ipa": "/ˈtrɔɪkə/",
+    "meaning": "A Russian team of three horses abreast, or the sleigh or carriage they draw.",
+    "ja": "トロイカ。三頭を横に並べたロシアの馬、またはそれが引くそりや馬車。",
+    "category": "land",
+    "origin": "Russian troika, from troe, three."
+  },
+  {
+    "word": "Trolley",
+    "ipa": "/ˈtrɑli/",
+    "meaning": "An electric streetcar that takes current through a trolley wheel or shoe on an overhead wire.",
+    "ja": "トロリー。架線からトロリーホイールや集電靴で電気を取る路面電車。",
+    "category": "rail",
+    "origin": "English trolley, from troll, to roll. The pole came first; the car took its name."
+  },
+  {
+    "word": "Trolleybus",
+    "ipa": "/ˈtrɑliˌbʌs/",
+    "meaning": "A bus that takes electric power from a pair of overhead wires, and runs on tires rather than rails.",
+    "ja": "トロリーバス。二本の架線から電気を取り、レールではなくタイヤで走るバス。",
+    "category": "land",
+    "origin": "English trolley + bus."
+  },
+  {
+    "word": "Truck",
+    "ipa": "/trʌk/",
+    "meaning": "A motor vehicle for carrying freight. The usual American word; British English often says lorry.",
+    "ja": "トラック。貨物を運ぶ自動車。アメリカでの普通の言い方。イギリスでは lorry が多い。",
+    "category": "land",
+    "origin": "American English. The deeper origin is uncertain; it may be related to truck, a small wheel."
+  },
+  {
+    "word": "Turboprop",
+    "ipa": "/ˈtɜrboʊˌprɑp/",
+    "meaning": "An airplane whose jet turbine turns a propeller.",
+    "ja": "ターボプロップ機。ジェットのタービンでプロペラを回して進む飛行機。",
+    "category": "air",
+    "origin": "English turbine + propeller."
+  },
+  {
+    "word": "U-boat",
+    "ipa": "/ˈjuˌboʊt/",
+    "meaning": "A German military submarine, especially of the two world wars.",
+    "ja": "Uボート。ドイツの軍用潜水艦。とくに二つの世界大戦のもの。",
+    "category": "boat",
+    "origin": "German U-Boot, short for Unterseeboot, undersea boat."
+  },
+  {
+    "word": "Ultralight",
+    "ipa": "/ˈʌltrəˌlaɪt/",
+    "meaning": "A very light powered aircraft, in American usage. British English usually says microlight.",
+    "ja": "ウルトラライト。ごく軽い動力付き航空機の、アメリカでの呼び方。イギリスではマイクロライトということが多い。",
+    "category": "air",
+    "origin": "English ultra- + light."
+  },
+  {
+    "word": "Umiak",
+    "ipa": "/ˈumiæk/",
+    "meaning": "An open skin boat of the Inuit, used to carry family and cargo. The kayak was the hunting boat.",
+    "ja": "ウミアク。イヌイットの、皮を張った開いた舟。家族や荷物を運び、狩りの舟であるカヤックと対になる。",
+    "category": "boat",
+    "origin": "Inuit umiaq."
+  },
+  {
+    "word": "Underground",
+    "ipa": "/ˈʌndərˌɡraʊnd/",
+    "meaning": "The British word for a city railway in tunnels.",
+    "ja": "アンダーグラウンド。トンネルの都市鉄道を指すイギリスの言い方。",
+    "category": "rail",
+    "origin": "English under + ground."
+  },
+  {
+    "word": "Unicycle",
+    "ipa": "/ˈjunəˌsaɪkəl/",
+    "meaning": "A pedal vehicle with a single wheel, the rider balanced above it.",
+    "ja": "一輪車。車輪が一つの足こぎ車。乗り手はその上でバランスを取る。",
+    "category": "land",
+    "origin": "English uni- + cycle."
+  },
+  {
+    "word": "Velocipede",
+    "ipa": "/vəˈlɑsəˌpid/",
+    "meaning": "An early bicycle or pedal vehicle. The name means swift foot.",
+    "ja": "ベロシペード。初期の自転車や足こぎの乗り物。「速い足」の意味。",
+    "category": "land",
+    "origin": "French vélocipède, from Latin velox, swift, and pes, foot."
+  },
+  {
+    "word": "Velomobile",
+    "ipa": "/ˈvɛloʊmoʊˌbil/",
+    "meaning": "A human-powered vehicle with a body or fairing around the rider, usually a recumbent tricycle.",
+    "ja": "ベロモービル。乗り手を車体やフェアリングで包んだ人力車。多くは寝そべって漕ぐ三輪。",
+    "category": "land",
+    "origin": "English velo-, from French vélo, bicycle, and automobile."
+  },
+  {
+    "word": "Victoria",
+    "ipa": "/vɪkˈtɔriə/",
+    "meaning": "A low, elegant open carriage for two, with a driver's seat raised in front.",
+    "ja": "ビクトリア。二人用の、背の低い開放馬車。御者席が前の高い位置にある。",
+    "category": "land",
+    "origin": "Named for Queen Victoria."
+  },
+  {
+    "word": "Wagon",
+    "ipa": "/ˈwæɡən/",
+    "meaning": "A four-wheeled vehicle for freight or farm work, usually drawn by horses or oxen.",
+    "ja": "ワゴン。貨物や農作業のための四輪車。馬や牛が引くことが多い。",
+    "category": "land",
+    "origin": "Dutch wagen."
+  },
+  {
+    "word": "Waka",
+    "ipa": "/ˈwɑkə/",
+    "meaning": "A Māori canoe, from the great single-hull war canoe to smaller coastal craft.",
+    "ja": "ワカ。マオリ語でカヌー。大型の戦用カヌーから沿岸の舟までを含む。",
+    "category": "boat",
+    "origin": "Māori waka, canoe or vessel."
+  },
+  {
+    "word": "Wherry",
+    "ipa": "/ˈwɛri/",
+    "meaning": "A light rowing boat for passengers and goods, especially on the Thames.",
+    "ja": "ウェリー。人や荷物を運ぶ軽い漕ぎ舟。とくにテムズ川のもの。",
+    "category": "boat",
+    "origin": "Origin uncertain. Middle English whery."
+  },
+  {
+    "word": "Windjammer",
+    "ipa": "/ˈwɪndˌdʒæmər/",
+    "meaning": "A large cargo sailing ship of the last decades of commercial sail.",
+    "ja": "ウィンドジャマー。商業帆船の末期に貨物を運んだ大型帆船。",
+    "category": "boat",
+    "origin": "English, late nineteenth century, for a large cargo sailing ship."
+  },
+  {
+    "word": "Xebec",
+    "ipa": "/ˈzibɛk/",
+    "meaning": "A fast Mediterranean sailing ship, usually three-masted and lateen-rigged, used by merchants and corsairs.",
+    "ja": "シェベク。地中海の快速帆船。多くは三本マストの三角帆で、商人も海賊も使った。",
+    "category": "boat",
+    "origin": "Arabic šabbāk, through Italian sciabecco and French chébec."
+  },
+  {
+    "word": "Yacht",
+    "ipa": "/jɑt/",
+    "meaning": "A light, fast boat for pleasure cruising or racing.",
+    "ja": "ヨット。遊覧やレースに使う、軽くて速い船。",
+    "category": "boat",
+    "origin": "Dutch jacht, from jagen, to hunt: a boat built to chase."
+  },
+  {
+    "word": "Yawl",
+    "ipa": "/jɔl/",
+    "meaning": "A two-masted sailboat whose small aft sail is stepped behind the rudder post. Also a ship's boat.",
+    "ja": "ヨール。二本マストの帆船。小さい後ろの帆が舵の軸より後ろにある。艦載の小艇の名でもある。",
+    "category": "boat",
+    "origin": "Dutch jol or Middle Low German jolle."
+  },
+  {
+    "word": "Zeppelin",
+    "ipa": "/ˈzɛpəlɪn/",
+    "meaning": "A rigid airship: a streamlined hull of girders, with gas cells inside and engines for thrust.",
+    "ja": "ツェッペリン。骨組の船体の中にガス袋を収めた硬式飛行船。エンジンで推進する。",
+    "category": "air",
+    "origin": "Count Ferdinand von Zeppelin, who flew the first of this type in 1900.",
+    "note": "Zeppelin is also still a company name in airships."
+  }
+]
